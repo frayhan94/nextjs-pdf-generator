@@ -9,6 +9,9 @@ This app generates a PDF of any public URL using Browserless and Puppeteer, buil
 - Efficient streaming (no memory buffer)
 - Clean UI to generate and download PDF
 
+## 🛠 Requirement
+Node js version 20
+
 ## 🛠 Tech Stack
 
 - Next.js (App Router)
